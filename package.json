@@ -1,0 +1,22 @@
+{
+  "name": "taskpulse-collaborative-pm",
+  "version": "1.0.0",
+  "description": "Collaborative project management tool with real-time WebSockets, boards, task cards, comments, and notifications",
+  "scripts": {
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev"
+  },
+  "keywords": [
+    "trello",
+    "asana",
+    "project-management",
+    "kanban",
+    "websockets",
+    "realtime",
+    "collaborative"
+  ],
+  "author": "",
+  "license": "MIT"
+}
